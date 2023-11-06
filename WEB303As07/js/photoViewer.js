@@ -20,7 +20,7 @@
                     e.preventDefault();
                     var imageUrl = $(this).attr('href');
                     var $mainImage = $photoBox.find('img');
-                    
+                    $('.photo-thumbnails img').removeClass('active');
                     $mainImage.attr('src', imageUrl);
                     $photoBox.removeClass('is-loading');
                     var $activeImg = $(this).find('img');
