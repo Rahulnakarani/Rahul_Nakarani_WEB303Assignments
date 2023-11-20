@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Harry",
+        "lastName": "Potter",
+        "gender": "Male",
+        "occupation": "Auror",
+        "status": "Alive",
+        "dateOfBirth": "1980-07-31"
+    },
+    {
+        "firstName": "Hermione",
+        "lastName": "Granger",
+        "gender": "Female",
+        "occupation": "Ministry of Magic",
+        "status": "Alive",
+        "dateOfBirth": "1979-09-19"
+    },
+    {
+        "firstName": "Ron",
+        "lastName": "Weasley",
+        "gender": "Male",
+        "occupation": "Weasleys' Wizard Wheezes",
+        "status": "Alive",
+        "dateOfBirth": "1980-03-01"
+    },
+    {
+        "firstName": "Albus",
+        "lastName": "Dumbledore",
+        "gender": "Male",
+        "occupation": "Headmaster",
+        "status": "Deceased",
+        "dateOfBirth": "1881-08-01"
+    },
+    {
+        "firstName": "Severus",
+        "lastName": "Snape",
+        "gender": "Male",
+        "occupation": "Potions Master",
+        "status": "Deceased",
+        "dateOfBirth": "1960-01-09"
+    },
+    {
+        "firstName": "Luna",
+        "lastName": "Lovegood",
+        "gender": "Female",
+        "occupation": "Magizoologist",
+        "status": "Alive",
+        "dateOfBirth": "1981-02-13"
+    },
+    {
+        "firstName": "Sirius",
+        "lastName": "Black",
+        "gender": "Male",
+        "occupation": "Member of the Phoenix",
+        "status": "Deceased",
+        "dateOfBirth": "1959-11-03"
+    }
+]
