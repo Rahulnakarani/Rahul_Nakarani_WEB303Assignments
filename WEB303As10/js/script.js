@@ -7,7 +7,7 @@ let countryList = document.getElementById("country");
 let submitBtn = document.getElementById("submit");
 let welcomeMsg = document.getElementById("welcomeMessage");
 
-
+submitBtn.disabled = true;
 
 countries.forEach (country=> {
     option = document.createElement('option');
